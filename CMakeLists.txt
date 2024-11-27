@@ -36,6 +36,7 @@ target_link_libraries(spotify-buddy
     pico_cyw43_arch_lwip_threadsafe_background
     pico_mbedtls
     pico_lwip_mbedtls
+    hardware_adc
 )
 
 pico_add_extra_outputs(spotify-buddy)

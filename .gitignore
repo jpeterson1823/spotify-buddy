@@ -1,0 +1,7 @@
+# ignore all build files
+**/build/**
+
+# ignore all "hidden" directories
+**/.*/**
+
+
